@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://0711f60c-bc41-41bb-a1ac-535dd87c7b06@lite-trinity-bears-chef.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=lite-trinity-bears-chef.trycloudflare.com&path=/928ea32799670a4ab4ffe2db015fb68b&sni=lite-trinity-bears-chef.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://lite-trinity-bears-chef.trycloudflare.com",
-  "host": "lite-trinity-bears-chef.trycloudflare.com",
-  "uuid": "0711f60c-bc41-41bb-a1ac-535dd87c7b06",
-  "path": "/928ea32799670a4ab4ffe2db015fb68b",
+  "vless_uri": "vless://a185c13b-6c6c-476f-a348-cc9e8deeee5e@fields-batman-empirical-reserve.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=fields-batman-empirical-reserve.trycloudflare.com&path=/7389d6fe19a962b72f5383dd0158640d&sni=fields-batman-empirical-reserve.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://fields-batman-empirical-reserve.trycloudflare.com",
+  "host": "fields-batman-empirical-reserve.trycloudflare.com",
+  "uuid": "a185c13b-6c6c-476f-a348-cc9e8deeee5e",
+  "path": "/7389d6fe19a962b72f5383dd0158640d",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "lite-trinity-bears-chef.trycloudflare.com",
+  "sni": "fields-batman-empirical-reserve.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-01T12:12:39Z"
+  "updated_at": "2026-11-01T17:43:17Z"
 }
