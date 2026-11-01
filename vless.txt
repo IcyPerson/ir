@@ -1,1 +1,1 @@
-vless://e38a4cb2-17ab-4e75-98ec-24131c95d8b6@robust-gospel-brunswick-fate.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=robust-gospel-brunswick-fate.trycloudflare.com&path=/fb90cf7b05539a76f9bf75c914921232&sni=robust-gospel-brunswick-fate.trycloudflare.com#GitHub-Xray
+vless://0711f60c-bc41-41bb-a1ac-535dd87c7b06@lite-trinity-bears-chef.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=lite-trinity-bears-chef.trycloudflare.com&path=/928ea32799670a4ab4ffe2db015fb68b&sni=lite-trinity-bears-chef.trycloudflare.com#GitHub-Xray

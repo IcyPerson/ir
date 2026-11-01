@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://e38a4cb2-17ab-4e75-98ec-24131c95d8b6@robust-gospel-brunswick-fate.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=robust-gospel-brunswick-fate.trycloudflare.com&path=/fb90cf7b05539a76f9bf75c914921232&sni=robust-gospel-brunswick-fate.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://robust-gospel-brunswick-fate.trycloudflare.com",
-  "host": "robust-gospel-brunswick-fate.trycloudflare.com",
-  "uuid": "e38a4cb2-17ab-4e75-98ec-24131c95d8b6",
-  "path": "/fb90cf7b05539a76f9bf75c914921232",
+  "vless_uri": "vless://0711f60c-bc41-41bb-a1ac-535dd87c7b06@lite-trinity-bears-chef.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=lite-trinity-bears-chef.trycloudflare.com&path=/928ea32799670a4ab4ffe2db015fb68b&sni=lite-trinity-bears-chef.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://lite-trinity-bears-chef.trycloudflare.com",
+  "host": "lite-trinity-bears-chef.trycloudflare.com",
+  "uuid": "0711f60c-bc41-41bb-a1ac-535dd87c7b06",
+  "path": "/928ea32799670a4ab4ffe2db015fb68b",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "robust-gospel-brunswick-fate.trycloudflare.com",
+  "sni": "lite-trinity-bears-chef.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-01T06:41:38Z"
+  "updated_at": "2026-11-01T12:12:39Z"
 }
