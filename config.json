@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://a185c13b-6c6c-476f-a348-cc9e8deeee5e@fields-batman-empirical-reserve.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=fields-batman-empirical-reserve.trycloudflare.com&path=/7389d6fe19a962b72f5383dd0158640d&sni=fields-batman-empirical-reserve.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://fields-batman-empirical-reserve.trycloudflare.com",
-  "host": "fields-batman-empirical-reserve.trycloudflare.com",
-  "uuid": "a185c13b-6c6c-476f-a348-cc9e8deeee5e",
-  "path": "/7389d6fe19a962b72f5383dd0158640d",
+  "vless_uri": "vless://a381142e-2aa1-402e-bb0d-42ece388c68b@americans-hereby-describing-begun.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=americans-hereby-describing-begun.trycloudflare.com&path=/3f5e9e823b7989030e9d93780d42f59a&sni=americans-hereby-describing-begun.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://americans-hereby-describing-begun.trycloudflare.com",
+  "host": "americans-hereby-describing-begun.trycloudflare.com",
+  "uuid": "a381142e-2aa1-402e-bb0d-42ece388c68b",
+  "path": "/3f5e9e823b7989030e9d93780d42f59a",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "fields-batman-empirical-reserve.trycloudflare.com",
+  "sni": "americans-hereby-describing-begun.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-01T17:43:17Z"
+  "updated_at": "2026-11-01T23:13:58Z"
 }
