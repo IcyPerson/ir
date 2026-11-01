@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://baf11d78-63c9-430d-a577-e67d5f67263d@barrier-strongly-abstracts-heath.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=barrier-strongly-abstracts-heath.trycloudflare.com&path=/a92060ab33e403fccb5e0e16c573c454&sni=barrier-strongly-abstracts-heath.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://barrier-strongly-abstracts-heath.trycloudflare.com",
-  "host": "barrier-strongly-abstracts-heath.trycloudflare.com",
-  "uuid": "baf11d78-63c9-430d-a577-e67d5f67263d",
-  "path": "/a92060ab33e403fccb5e0e16c573c454",
+  "vless_uri": "vless://27a93009-0c51-407e-b32e-2579bda72b68@wholesale-dubai-employed-blessed.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=wholesale-dubai-employed-blessed.trycloudflare.com&path=/4dbc167461d87706eb3094a05b5080c4&sni=wholesale-dubai-employed-blessed.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://wholesale-dubai-employed-blessed.trycloudflare.com",
+  "host": "wholesale-dubai-employed-blessed.trycloudflare.com",
+  "uuid": "27a93009-0c51-407e-b32e-2579bda72b68",
+  "path": "/4dbc167461d87706eb3094a05b5080c4",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "barrier-strongly-abstracts-heath.trycloudflare.com",
+  "sni": "wholesale-dubai-employed-blessed.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-10-31T19:39:58Z"
+  "updated_at": "2026-11-01T01:10:58Z"
 }
