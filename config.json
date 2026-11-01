@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://27a93009-0c51-407e-b32e-2579bda72b68@wholesale-dubai-employed-blessed.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=wholesale-dubai-employed-blessed.trycloudflare.com&path=/4dbc167461d87706eb3094a05b5080c4&sni=wholesale-dubai-employed-blessed.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://wholesale-dubai-employed-blessed.trycloudflare.com",
-  "host": "wholesale-dubai-employed-blessed.trycloudflare.com",
-  "uuid": "27a93009-0c51-407e-b32e-2579bda72b68",
-  "path": "/4dbc167461d87706eb3094a05b5080c4",
+  "vless_uri": "vless://e38a4cb2-17ab-4e75-98ec-24131c95d8b6@robust-gospel-brunswick-fate.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=robust-gospel-brunswick-fate.trycloudflare.com&path=/fb90cf7b05539a76f9bf75c914921232&sni=robust-gospel-brunswick-fate.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://robust-gospel-brunswick-fate.trycloudflare.com",
+  "host": "robust-gospel-brunswick-fate.trycloudflare.com",
+  "uuid": "e38a4cb2-17ab-4e75-98ec-24131c95d8b6",
+  "path": "/fb90cf7b05539a76f9bf75c914921232",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "wholesale-dubai-employed-blessed.trycloudflare.com",
+  "sni": "robust-gospel-brunswick-fate.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-01T01:10:58Z"
+  "updated_at": "2026-11-01T06:41:38Z"
 }
