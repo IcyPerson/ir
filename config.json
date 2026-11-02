@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://a8884e70-0972-4d86-a287-a3a86affd354@reading-cardiac-adapter-assigned.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=reading-cardiac-adapter-assigned.trycloudflare.com&path=/331a743c55d346dbf986554a68459b59&sni=reading-cardiac-adapter-assigned.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://reading-cardiac-adapter-assigned.trycloudflare.com",
-  "host": "reading-cardiac-adapter-assigned.trycloudflare.com",
-  "uuid": "a8884e70-0972-4d86-a287-a3a86affd354",
-  "path": "/331a743c55d346dbf986554a68459b59",
+  "vless_uri": "vless://9085ee90-f8b0-4274-b590-d82a2d4c88c6@flex-surrounding-kurt-medline.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=flex-surrounding-kurt-medline.trycloudflare.com&path=/cf8e72f95b1bbe5e1beb10dd56a68122&sni=flex-surrounding-kurt-medline.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://flex-surrounding-kurt-medline.trycloudflare.com",
+  "host": "flex-surrounding-kurt-medline.trycloudflare.com",
+  "uuid": "9085ee90-f8b0-4274-b590-d82a2d4c88c6",
+  "path": "/cf8e72f95b1bbe5e1beb10dd56a68122",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "reading-cardiac-adapter-assigned.trycloudflare.com",
+  "sni": "flex-surrounding-kurt-medline.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-02T15:46:19Z"
+  "updated_at": "2026-11-02T21:17:08Z"
 }
