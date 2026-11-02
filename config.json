@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://a381142e-2aa1-402e-bb0d-42ece388c68b@americans-hereby-describing-begun.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=americans-hereby-describing-begun.trycloudflare.com&path=/3f5e9e823b7989030e9d93780d42f59a&sni=americans-hereby-describing-begun.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://americans-hereby-describing-begun.trycloudflare.com",
-  "host": "americans-hereby-describing-begun.trycloudflare.com",
-  "uuid": "a381142e-2aa1-402e-bb0d-42ece388c68b",
-  "path": "/3f5e9e823b7989030e9d93780d42f59a",
+  "vless_uri": "vless://ead29e52-a1ae-49d1-82e7-eafa656f6c2f@birth-conviction-shoppers-creek.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=birth-conviction-shoppers-creek.trycloudflare.com&path=/61a4abbb6a9bd7034851a3693756cc17&sni=birth-conviction-shoppers-creek.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://birth-conviction-shoppers-creek.trycloudflare.com",
+  "host": "birth-conviction-shoppers-creek.trycloudflare.com",
+  "uuid": "ead29e52-a1ae-49d1-82e7-eafa656f6c2f",
+  "path": "/61a4abbb6a9bd7034851a3693756cc17",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "americans-hereby-describing-begun.trycloudflare.com",
+  "sni": "birth-conviction-shoppers-creek.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-01T23:13:58Z"
+  "updated_at": "2026-11-02T04:44:37Z"
 }
