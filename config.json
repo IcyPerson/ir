@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://e7250de9-8211-47f4-a5a8-a26ab2632c85@dimensions-head-professor-animal.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=dimensions-head-professor-animal.trycloudflare.com&path=/43f7ccffb7eaa3bd3c15cd07c0644caf&sni=dimensions-head-professor-animal.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://dimensions-head-professor-animal.trycloudflare.com",
-  "host": "dimensions-head-professor-animal.trycloudflare.com",
-  "uuid": "e7250de9-8211-47f4-a5a8-a26ab2632c85",
-  "path": "/43f7ccffb7eaa3bd3c15cd07c0644caf",
+  "vless_uri": "vless://34ab55c1-c607-4c44-be9c-072339b568bf@implement-burning-pat-aluminum.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=implement-burning-pat-aluminum.trycloudflare.com&path=/f224a4271a38b99514847bc5345a2ec2&sni=implement-burning-pat-aluminum.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://implement-burning-pat-aluminum.trycloudflare.com",
+  "host": "implement-burning-pat-aluminum.trycloudflare.com",
+  "uuid": "34ab55c1-c607-4c44-be9c-072339b568bf",
+  "path": "/f224a4271a38b99514847bc5345a2ec2",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "dimensions-head-professor-animal.trycloudflare.com",
+  "sni": "implement-burning-pat-aluminum.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-03T13:49:26Z"
+  "updated_at": "2026-11-03T19:20:49Z"
 }
