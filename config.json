@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://9085ee90-f8b0-4274-b590-d82a2d4c88c6@flex-surrounding-kurt-medline.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=flex-surrounding-kurt-medline.trycloudflare.com&path=/cf8e72f95b1bbe5e1beb10dd56a68122&sni=flex-surrounding-kurt-medline.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://flex-surrounding-kurt-medline.trycloudflare.com",
-  "host": "flex-surrounding-kurt-medline.trycloudflare.com",
-  "uuid": "9085ee90-f8b0-4274-b590-d82a2d4c88c6",
-  "path": "/cf8e72f95b1bbe5e1beb10dd56a68122",
+  "vless_uri": "vless://bd6d3a01-a45f-4f4f-a506-913e64a051df@pledge-warehouse-requirements-comfort.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=pledge-warehouse-requirements-comfort.trycloudflare.com&path=/c6e2db4e73ac0f4bfb1eb8a14c0c492f&sni=pledge-warehouse-requirements-comfort.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://pledge-warehouse-requirements-comfort.trycloudflare.com",
+  "host": "pledge-warehouse-requirements-comfort.trycloudflare.com",
+  "uuid": "bd6d3a01-a45f-4f4f-a506-913e64a051df",
+  "path": "/c6e2db4e73ac0f4bfb1eb8a14c0c492f",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "flex-surrounding-kurt-medline.trycloudflare.com",
+  "sni": "pledge-warehouse-requirements-comfort.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-02T21:17:08Z"
+  "updated_at": "2026-11-03T02:48:02Z"
 }
