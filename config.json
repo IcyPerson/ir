@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://7977aee0-0067-4f29-9ae0-04404139227a@intent-tones-asthma-tracker.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=intent-tones-asthma-tracker.trycloudflare.com&path=/1e68f8ba1a43c17651baea8fb6e23d3d&sni=intent-tones-asthma-tracker.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://intent-tones-asthma-tracker.trycloudflare.com",
-  "host": "intent-tones-asthma-tracker.trycloudflare.com",
-  "uuid": "7977aee0-0067-4f29-9ae0-04404139227a",
-  "path": "/1e68f8ba1a43c17651baea8fb6e23d3d",
+  "vless_uri": "vless://e7250de9-8211-47f4-a5a8-a26ab2632c85@dimensions-head-professor-animal.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=dimensions-head-professor-animal.trycloudflare.com&path=/43f7ccffb7eaa3bd3c15cd07c0644caf&sni=dimensions-head-professor-animal.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://dimensions-head-professor-animal.trycloudflare.com",
+  "host": "dimensions-head-professor-animal.trycloudflare.com",
+  "uuid": "e7250de9-8211-47f4-a5a8-a26ab2632c85",
+  "path": "/43f7ccffb7eaa3bd3c15cd07c0644caf",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "intent-tones-asthma-tracker.trycloudflare.com",
+  "sni": "dimensions-head-professor-animal.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-03T08:18:42Z"
+  "updated_at": "2026-11-03T13:49:26Z"
 }
