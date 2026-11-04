@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://a48fe7db-c2ca-4877-ab7d-e951ee9602ee@promo-expectations-til-boot.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=promo-expectations-til-boot.trycloudflare.com&path=/c8948b573ff8a494df1df9b51eb33799&sni=promo-expectations-til-boot.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://promo-expectations-til-boot.trycloudflare.com",
-  "host": "promo-expectations-til-boot.trycloudflare.com",
-  "uuid": "a48fe7db-c2ca-4877-ab7d-e951ee9602ee",
-  "path": "/c8948b573ff8a494df1df9b51eb33799",
+  "vless_uri": "vless://8af1354f-193d-403f-8f8f-04e3f2147ae7@candles-dancing-represented-classroom.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=candles-dancing-represented-classroom.trycloudflare.com&path=/261b5098f8252f87340663f619e75eed&sni=candles-dancing-represented-classroom.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://candles-dancing-represented-classroom.trycloudflare.com",
+  "host": "candles-dancing-represented-classroom.trycloudflare.com",
+  "uuid": "8af1354f-193d-403f-8f8f-04e3f2147ae7",
+  "path": "/261b5098f8252f87340663f619e75eed",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "promo-expectations-til-boot.trycloudflare.com",
+  "sni": "candles-dancing-represented-classroom.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-04T00:51:42Z"
+  "updated_at": "2026-11-04T06:22:25Z"
 }
