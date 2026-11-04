@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://9527bfc0-de74-4aa3-9ce8-fa0791bbd693@consent-gras-monitored-replies.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=consent-gras-monitored-replies.trycloudflare.com&path=/82ba26b43c95a9dfcfb799d953166547&sni=consent-gras-monitored-replies.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://consent-gras-monitored-replies.trycloudflare.com",
-  "host": "consent-gras-monitored-replies.trycloudflare.com",
-  "uuid": "9527bfc0-de74-4aa3-9ce8-fa0791bbd693",
-  "path": "/82ba26b43c95a9dfcfb799d953166547",
+  "vless_uri": "vless://2f0bf67a-75f1-4c6a-91b8-76c21206ab23@clusters-elephant-dylan-restaurants.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=clusters-elephant-dylan-restaurants.trycloudflare.com&path=/982e595c201be1431f8d38e5d3c6d942&sni=clusters-elephant-dylan-restaurants.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://clusters-elephant-dylan-restaurants.trycloudflare.com",
+  "host": "clusters-elephant-dylan-restaurants.trycloudflare.com",
+  "uuid": "2f0bf67a-75f1-4c6a-91b8-76c21206ab23",
+  "path": "/982e595c201be1431f8d38e5d3c6d942",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "consent-gras-monitored-replies.trycloudflare.com",
+  "sni": "clusters-elephant-dylan-restaurants.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-04T17:24:00Z"
+  "updated_at": "2026-11-04T22:54:41Z"
 }
