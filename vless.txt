@@ -1,1 +1,1 @@
-vless://34ab55c1-c607-4c44-be9c-072339b568bf@implement-burning-pat-aluminum.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=implement-burning-pat-aluminum.trycloudflare.com&path=/f224a4271a38b99514847bc5345a2ec2&sni=implement-burning-pat-aluminum.trycloudflare.com#GitHub-Xray
+vless://a48fe7db-c2ca-4877-ab7d-e951ee9602ee@promo-expectations-til-boot.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=promo-expectations-til-boot.trycloudflare.com&path=/c8948b573ff8a494df1df9b51eb33799&sni=promo-expectations-til-boot.trycloudflare.com#GitHub-Xray

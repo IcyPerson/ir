@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://34ab55c1-c607-4c44-be9c-072339b568bf@implement-burning-pat-aluminum.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=implement-burning-pat-aluminum.trycloudflare.com&path=/f224a4271a38b99514847bc5345a2ec2&sni=implement-burning-pat-aluminum.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://implement-burning-pat-aluminum.trycloudflare.com",
-  "host": "implement-burning-pat-aluminum.trycloudflare.com",
-  "uuid": "34ab55c1-c607-4c44-be9c-072339b568bf",
-  "path": "/f224a4271a38b99514847bc5345a2ec2",
+  "vless_uri": "vless://a48fe7db-c2ca-4877-ab7d-e951ee9602ee@promo-expectations-til-boot.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=promo-expectations-til-boot.trycloudflare.com&path=/c8948b573ff8a494df1df9b51eb33799&sni=promo-expectations-til-boot.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://promo-expectations-til-boot.trycloudflare.com",
+  "host": "promo-expectations-til-boot.trycloudflare.com",
+  "uuid": "a48fe7db-c2ca-4877-ab7d-e951ee9602ee",
+  "path": "/c8948b573ff8a494df1df9b51eb33799",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "implement-burning-pat-aluminum.trycloudflare.com",
+  "sni": "promo-expectations-til-boot.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-03T19:20:49Z"
+  "updated_at": "2026-11-04T00:51:42Z"
 }
