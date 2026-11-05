@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://f6707272-1f73-4a29-b594-862aac27825f@programs-online-rarely-runtime.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=programs-online-rarely-runtime.trycloudflare.com&path=/8a655abc30fbda8b2c376171d031afac&sni=programs-online-rarely-runtime.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://programs-online-rarely-runtime.trycloudflare.com",
-  "host": "programs-online-rarely-runtime.trycloudflare.com",
-  "uuid": "f6707272-1f73-4a29-b594-862aac27825f",
-  "path": "/8a655abc30fbda8b2c376171d031afac",
+  "vless_uri": "vless://7c12eb46-7781-49ab-8118-b8da96615ed2@artists-lasting-controversy-wrap.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=artists-lasting-controversy-wrap.trycloudflare.com&path=/316b5e0a0422c259138835148a92a82d&sni=artists-lasting-controversy-wrap.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://artists-lasting-controversy-wrap.trycloudflare.com",
+  "host": "artists-lasting-controversy-wrap.trycloudflare.com",
+  "uuid": "7c12eb46-7781-49ab-8118-b8da96615ed2",
+  "path": "/316b5e0a0422c259138835148a92a82d",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "programs-online-rarely-runtime.trycloudflare.com",
+  "sni": "artists-lasting-controversy-wrap.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-05T15:26:52Z"
+  "updated_at": "2026-11-05T20:57:33Z"
 }
