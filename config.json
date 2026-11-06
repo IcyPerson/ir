@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://135a9ab2-8faf-42cc-9cfc-29da7967dc85@group-proportion-advised-matter.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=group-proportion-advised-matter.trycloudflare.com&path=/a788fb2e9c86a19dd5145304ec10e968&sni=group-proportion-advised-matter.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://group-proportion-advised-matter.trycloudflare.com",
-  "host": "group-proportion-advised-matter.trycloudflare.com",
-  "uuid": "135a9ab2-8faf-42cc-9cfc-29da7967dc85",
-  "path": "/a788fb2e9c86a19dd5145304ec10e968",
+  "vless_uri": "vless://01a9c407-7356-439a-9d05-dcaa26712846@act-prix-leg-lanes.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=act-prix-leg-lanes.trycloudflare.com&path=/3623bf863806e5a6ff8c80a216c733f5&sni=act-prix-leg-lanes.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://act-prix-leg-lanes.trycloudflare.com",
+  "host": "act-prix-leg-lanes.trycloudflare.com",
+  "uuid": "01a9c407-7356-439a-9d05-dcaa26712846",
+  "path": "/3623bf863806e5a6ff8c80a216c733f5",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "group-proportion-advised-matter.trycloudflare.com",
+  "sni": "act-prix-leg-lanes.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-06T13:29:42Z"
+  "updated_at": "2026-11-06T19:00:27Z"
 }
