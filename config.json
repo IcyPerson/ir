@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://2ffdf06f-1a70-4518-afd3-2a5509d1ecfe@number-candles-protection-regulation.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=number-candles-protection-regulation.trycloudflare.com&path=/5b376fb4f078d2dcff0cabe5b664145c&sni=number-candles-protection-regulation.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://number-candles-protection-regulation.trycloudflare.com",
-  "host": "number-candles-protection-regulation.trycloudflare.com",
-  "uuid": "2ffdf06f-1a70-4518-afd3-2a5509d1ecfe",
-  "path": "/5b376fb4f078d2dcff0cabe5b664145c",
+  "vless_uri": "vless://ff6c66c9-dc26-487d-a96a-51bf0e54bb95@wires-preferences-sql-audience.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=wires-preferences-sql-audience.trycloudflare.com&path=/e6e2f8199978614061386d9bbeaadd6f&sni=wires-preferences-sql-audience.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://wires-preferences-sql-audience.trycloudflare.com",
+  "host": "wires-preferences-sql-audience.trycloudflare.com",
+  "uuid": "ff6c66c9-dc26-487d-a96a-51bf0e54bb95",
+  "path": "/e6e2f8199978614061386d9bbeaadd6f",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "number-candles-protection-regulation.trycloudflare.com",
+  "sni": "wires-preferences-sql-audience.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-06T02:28:13Z"
+  "updated_at": "2026-11-06T07:59:01Z"
 }
