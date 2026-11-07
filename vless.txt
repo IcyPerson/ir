@@ -1,1 +1,1 @@
-vless://6260886d-0de8-402b-a510-a4e9a3490bc4@wanted-avi-commons-breach.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=wanted-avi-commons-breach.trycloudflare.com&path=/1fe7d89be0cd46aa0770427e8bc55f11&sni=wanted-avi-commons-breach.trycloudflare.com#GitHub-Xray
+vless://0bd73c5d-38ef-4d09-8076-3c1d63d2acda@poison-need-ink-calendar.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=poison-need-ink-calendar.trycloudflare.com&path=/bdb0fdea930e6529162735f7dbe26dd5&sni=poison-need-ink-calendar.trycloudflare.com#GitHub-Xray
