@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://06fdf93f-267b-453f-8e35-12312b1b9d33@cyber-keno-maybe-gba.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=cyber-keno-maybe-gba.trycloudflare.com&path=/f06c8f10e32e4e5cb34adaad306cd7e6&sni=cyber-keno-maybe-gba.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://cyber-keno-maybe-gba.trycloudflare.com",
-  "host": "cyber-keno-maybe-gba.trycloudflare.com",
-  "uuid": "06fdf93f-267b-453f-8e35-12312b1b9d33",
-  "path": "/f06c8f10e32e4e5cb34adaad306cd7e6",
+  "vless_uri": "vless://6260886d-0de8-402b-a510-a4e9a3490bc4@wanted-avi-commons-breach.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=wanted-avi-commons-breach.trycloudflare.com&path=/1fe7d89be0cd46aa0770427e8bc55f11&sni=wanted-avi-commons-breach.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://wanted-avi-commons-breach.trycloudflare.com",
+  "host": "wanted-avi-commons-breach.trycloudflare.com",
+  "uuid": "6260886d-0de8-402b-a510-a4e9a3490bc4",
+  "path": "/1fe7d89be0cd46aa0770427e8bc55f11",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "cyber-keno-maybe-gba.trycloudflare.com",
+  "sni": "wanted-avi-commons-breach.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-07T11:32:30Z"
+  "updated_at": "2026-11-07T17:03:14Z"
 }
