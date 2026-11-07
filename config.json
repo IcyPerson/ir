@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://e9ed2278-ec2c-4759-8203-2acd0ab85092@pal-promotions-neighborhood-performances.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=pal-promotions-neighborhood-performances.trycloudflare.com&path=/1f5e6bf946175846630900507ba5692c&sni=pal-promotions-neighborhood-performances.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://pal-promotions-neighborhood-performances.trycloudflare.com",
-  "host": "pal-promotions-neighborhood-performances.trycloudflare.com",
-  "uuid": "e9ed2278-ec2c-4759-8203-2acd0ab85092",
-  "path": "/1f5e6bf946175846630900507ba5692c",
+  "vless_uri": "vless://e7de670e-8b34-4fdf-ad14-bbb77bcdc008@coffee-eugene-violation-printable.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=coffee-eugene-violation-printable.trycloudflare.com&path=/b83143395e77a5718851bdacff654f78&sni=coffee-eugene-violation-printable.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://coffee-eugene-violation-printable.trycloudflare.com",
+  "host": "coffee-eugene-violation-printable.trycloudflare.com",
+  "uuid": "e7de670e-8b34-4fdf-ad14-bbb77bcdc008",
+  "path": "/b83143395e77a5718851bdacff654f78",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "pal-promotions-neighborhood-performances.trycloudflare.com",
+  "sni": "coffee-eugene-violation-printable.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-07T00:31:07Z"
+  "updated_at": "2026-11-07T06:01:44Z"
 }
