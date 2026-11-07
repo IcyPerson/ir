@@ -1,1 +1,1 @@
-vless://01a9c407-7356-439a-9d05-dcaa26712846@act-prix-leg-lanes.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=act-prix-leg-lanes.trycloudflare.com&path=/3623bf863806e5a6ff8c80a216c733f5&sni=act-prix-leg-lanes.trycloudflare.com#GitHub-Xray
+vless://e9ed2278-ec2c-4759-8203-2acd0ab85092@pal-promotions-neighborhood-performances.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=pal-promotions-neighborhood-performances.trycloudflare.com&path=/1f5e6bf946175846630900507ba5692c&sni=pal-promotions-neighborhood-performances.trycloudflare.com#GitHub-Xray
