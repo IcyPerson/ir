@@ -1,1 +1,1 @@
-vless://0bd73c5d-38ef-4d09-8076-3c1d63d2acda@poison-need-ink-calendar.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=poison-need-ink-calendar.trycloudflare.com&path=/bdb0fdea930e6529162735f7dbe26dd5&sni=poison-need-ink-calendar.trycloudflare.com#GitHub-Xray
+vless://0275152c-863d-4894-a959-139940d06652@accessible-animal-closing-tricks.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=accessible-animal-closing-tricks.trycloudflare.com&path=/58604cf351a37050216afdcd177cf59d&sni=accessible-animal-closing-tricks.trycloudflare.com#GitHub-Xray
