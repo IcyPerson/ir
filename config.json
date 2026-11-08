@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://0275152c-863d-4894-a959-139940d06652@accessible-animal-closing-tricks.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=accessible-animal-closing-tricks.trycloudflare.com&path=/58604cf351a37050216afdcd177cf59d&sni=accessible-animal-closing-tricks.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://accessible-animal-closing-tricks.trycloudflare.com",
-  "host": "accessible-animal-closing-tricks.trycloudflare.com",
-  "uuid": "0275152c-863d-4894-a959-139940d06652",
-  "path": "/58604cf351a37050216afdcd177cf59d",
+  "vless_uri": "vless://fc327e16-ade7-4979-a687-0d340327302a@gateway-materials-hospitality-pichunter.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=gateway-materials-hospitality-pichunter.trycloudflare.com&path=/e0944072c15bf8fe3401484e5551c7ee&sni=gateway-materials-hospitality-pichunter.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://gateway-materials-hospitality-pichunter.trycloudflare.com",
+  "host": "gateway-materials-hospitality-pichunter.trycloudflare.com",
+  "uuid": "fc327e16-ade7-4979-a687-0d340327302a",
+  "path": "/e0944072c15bf8fe3401484e5551c7ee",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "accessible-animal-closing-tricks.trycloudflare.com",
+  "sni": "gateway-materials-hospitality-pichunter.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-08T04:05:37Z"
+  "updated_at": "2026-11-08T10:34:17Z"
 }
