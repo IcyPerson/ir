@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://ecadcbf7-3152-487e-a803-18a0ed18dc81@italiano-bryant-breath-mobiles.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=italiano-bryant-breath-mobiles.trycloudflare.com&path=/c79c5926ffc9cf55f6d5ace97fa6ea94&sni=italiano-bryant-breath-mobiles.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://italiano-bryant-breath-mobiles.trycloudflare.com",
-  "host": "italiano-bryant-breath-mobiles.trycloudflare.com",
-  "uuid": "ecadcbf7-3152-487e-a803-18a0ed18dc81",
-  "path": "/c79c5926ffc9cf55f6d5ace97fa6ea94",
+  "vless_uri": "vless://a0a1dbc6-a6af-4596-8549-a3bfd9177527@villa-auditor-subjects-conscious.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=villa-auditor-subjects-conscious.trycloudflare.com&path=/a9036a7226eb060a7a0c7e7663cec8b3&sni=villa-auditor-subjects-conscious.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://villa-auditor-subjects-conscious.trycloudflare.com",
+  "host": "villa-auditor-subjects-conscious.trycloudflare.com",
+  "uuid": "a0a1dbc6-a6af-4596-8549-a3bfd9177527",
+  "path": "/a9036a7226eb060a7a0c7e7663cec8b3",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "italiano-bryant-breath-mobiles.trycloudflare.com",
+  "sni": "villa-auditor-subjects-conscious.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-09T08:36:57Z"
+  "updated_at": "2026-11-09T14:07:42Z"
 }
