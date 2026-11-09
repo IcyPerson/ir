@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://2f90467a-9be2-4375-8b3d-8f20ed9fa04c@asking-florists-mardi-subjective.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=asking-florists-mardi-subjective.trycloudflare.com&path=/798dacb02c7b2ed6288228aab01d4d17&sni=asking-florists-mardi-subjective.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://asking-florists-mardi-subjective.trycloudflare.com",
-  "host": "asking-florists-mardi-subjective.trycloudflare.com",
-  "uuid": "2f90467a-9be2-4375-8b3d-8f20ed9fa04c",
-  "path": "/798dacb02c7b2ed6288228aab01d4d17",
+  "vless_uri": "vless://23c1f7a0-0b4e-4c29-8249-bd3cf0714de8@professional-underground-listing-hat.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=professional-underground-listing-hat.trycloudflare.com&path=/f1dcda5cc0ae09c399f266e1503478b7&sni=professional-underground-listing-hat.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://professional-underground-listing-hat.trycloudflare.com",
+  "host": "professional-underground-listing-hat.trycloudflare.com",
+  "uuid": "23c1f7a0-0b4e-4c29-8249-bd3cf0714de8",
+  "path": "/f1dcda5cc0ae09c399f266e1503478b7",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "asking-florists-mardi-subjective.trycloudflare.com",
+  "sni": "professional-underground-listing-hat.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-08T21:35:39Z"
+  "updated_at": "2026-11-09T03:06:17Z"
 }
