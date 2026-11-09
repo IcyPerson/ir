@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://a0a1dbc6-a6af-4596-8549-a3bfd9177527@villa-auditor-subjects-conscious.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=villa-auditor-subjects-conscious.trycloudflare.com&path=/a9036a7226eb060a7a0c7e7663cec8b3&sni=villa-auditor-subjects-conscious.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://villa-auditor-subjects-conscious.trycloudflare.com",
-  "host": "villa-auditor-subjects-conscious.trycloudflare.com",
-  "uuid": "a0a1dbc6-a6af-4596-8549-a3bfd9177527",
-  "path": "/a9036a7226eb060a7a0c7e7663cec8b3",
+  "vless_uri": "vless://cc764b56-bf09-4ff6-85ef-97140e6ba7b8@history-retrieval-permanent-calendar.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=history-retrieval-permanent-calendar.trycloudflare.com&path=/4f81ecf9f4d82a2fecf29b212fd45214&sni=history-retrieval-permanent-calendar.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://history-retrieval-permanent-calendar.trycloudflare.com",
+  "host": "history-retrieval-permanent-calendar.trycloudflare.com",
+  "uuid": "cc764b56-bf09-4ff6-85ef-97140e6ba7b8",
+  "path": "/4f81ecf9f4d82a2fecf29b212fd45214",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "villa-auditor-subjects-conscious.trycloudflare.com",
+  "sni": "history-retrieval-permanent-calendar.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-09T14:07:42Z"
+  "updated_at": "2026-11-09T19:38:24Z"
 }
