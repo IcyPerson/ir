@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://f75fcbf4-7818-461b-9ca7-c006a29fce70@tournaments-housewives-opinion-omaha.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=tournaments-housewives-opinion-omaha.trycloudflare.com&path=/2dcbd864cb37bd409ffbf181d10b7004&sni=tournaments-housewives-opinion-omaha.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://tournaments-housewives-opinion-omaha.trycloudflare.com",
-  "host": "tournaments-housewives-opinion-omaha.trycloudflare.com",
-  "uuid": "f75fcbf4-7818-461b-9ca7-c006a29fce70",
-  "path": "/2dcbd864cb37bd409ffbf181d10b7004",
+  "vless_uri": "vless://db63a928-35f6-4e6f-aec4-7d57a8d67edd@regulatory-juan-alien-complement.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=regulatory-juan-alien-complement.trycloudflare.com&path=/266055ff31587fe2785ceac65363e947&sni=regulatory-juan-alien-complement.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://regulatory-juan-alien-complement.trycloudflare.com",
+  "host": "regulatory-juan-alien-complement.trycloudflare.com",
+  "uuid": "db63a928-35f6-4e6f-aec4-7d57a8d67edd",
+  "path": "/266055ff31587fe2785ceac65363e947",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "tournaments-housewives-opinion-omaha.trycloudflare.com",
+  "sni": "regulatory-juan-alien-complement.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-10T17:41:08Z"
+  "updated_at": "2026-11-10T23:11:48Z"
 }
