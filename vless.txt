@@ -1,1 +1,1 @@
-vless://18878abf-2105-4201-bb2b-c537a05a54cb@quarterly-insight-keen-shaw.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=quarterly-insight-keen-shaw.trycloudflare.com&path=/6056843545765d0511e30f65011a8e61&sni=quarterly-insight-keen-shaw.trycloudflare.com#GitHub-Xray
+vless://bddd59f8-e72c-4464-ac0a-632ca667a332@catalogs-ross-suit-buzz.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=catalogs-ross-suit-buzz.trycloudflare.com&path=/fde760bb98024daca4cf9bcfcfb77c69&sni=catalogs-ross-suit-buzz.trycloudflare.com#GitHub-Xray
