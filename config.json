@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://db63a928-35f6-4e6f-aec4-7d57a8d67edd@regulatory-juan-alien-complement.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=regulatory-juan-alien-complement.trycloudflare.com&path=/266055ff31587fe2785ceac65363e947&sni=regulatory-juan-alien-complement.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://regulatory-juan-alien-complement.trycloudflare.com",
-  "host": "regulatory-juan-alien-complement.trycloudflare.com",
-  "uuid": "db63a928-35f6-4e6f-aec4-7d57a8d67edd",
-  "path": "/266055ff31587fe2785ceac65363e947",
+  "vless_uri": "vless://18878abf-2105-4201-bb2b-c537a05a54cb@quarterly-insight-keen-shaw.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=quarterly-insight-keen-shaw.trycloudflare.com&path=/6056843545765d0511e30f65011a8e61&sni=quarterly-insight-keen-shaw.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://quarterly-insight-keen-shaw.trycloudflare.com",
+  "host": "quarterly-insight-keen-shaw.trycloudflare.com",
+  "uuid": "18878abf-2105-4201-bb2b-c537a05a54cb",
+  "path": "/6056843545765d0511e30f65011a8e61",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "regulatory-juan-alien-complement.trycloudflare.com",
+  "sni": "quarterly-insight-keen-shaw.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-10T23:11:48Z"
+  "updated_at": "2026-11-11T04:42:28Z"
 }
