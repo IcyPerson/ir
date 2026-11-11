@@ -1,1 +1,1 @@
-vless://bddd59f8-e72c-4464-ac0a-632ca667a332@catalogs-ross-suit-buzz.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=catalogs-ross-suit-buzz.trycloudflare.com&path=/fde760bb98024daca4cf9bcfcfb77c69&sni=catalogs-ross-suit-buzz.trycloudflare.com#GitHub-Xray
+vless://3e41a76c-d658-4304-a825-9fbfd861dae8@closure-slim-sometimes-carried.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=closure-slim-sometimes-carried.trycloudflare.com&path=/16c532f1bf3544fc09f9f7c239b332bf&sni=closure-slim-sometimes-carried.trycloudflare.com#GitHub-Xray

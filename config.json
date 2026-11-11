@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://bddd59f8-e72c-4464-ac0a-632ca667a332@catalogs-ross-suit-buzz.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=catalogs-ross-suit-buzz.trycloudflare.com&path=/fde760bb98024daca4cf9bcfcfb77c69&sni=catalogs-ross-suit-buzz.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://catalogs-ross-suit-buzz.trycloudflare.com",
-  "host": "catalogs-ross-suit-buzz.trycloudflare.com",
-  "uuid": "bddd59f8-e72c-4464-ac0a-632ca667a332",
-  "path": "/fde760bb98024daca4cf9bcfcfb77c69",
+  "vless_uri": "vless://3e41a76c-d658-4304-a825-9fbfd861dae8@closure-slim-sometimes-carried.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=closure-slim-sometimes-carried.trycloudflare.com&path=/16c532f1bf3544fc09f9f7c239b332bf&sni=closure-slim-sometimes-carried.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://closure-slim-sometimes-carried.trycloudflare.com",
+  "host": "closure-slim-sometimes-carried.trycloudflare.com",
+  "uuid": "3e41a76c-d658-4304-a825-9fbfd861dae8",
+  "path": "/16c532f1bf3544fc09f9f7c239b332bf",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "catalogs-ross-suit-buzz.trycloudflare.com",
+  "sni": "closure-slim-sometimes-carried.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-11T10:13:11Z"
+  "updated_at": "2026-11-11T15:47:14Z"
 }
