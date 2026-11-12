@@ -1,1 +1,1 @@
-vless://6632ab7c-1833-48ee-94c9-11fbc9a92c3a@overcome-empire-recent-handed.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=overcome-empire-recent-handed.trycloudflare.com&path=/95f3e8702e9c781c4345a2f996135a07&sni=overcome-empire-recent-handed.trycloudflare.com#GitHub-Xray
+vless://64e9004b-1173-4078-bb35-c89da1fab6b3@indiana-stars-ship-benz.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=indiana-stars-ship-benz.trycloudflare.com&path=/d8bd49811ea692926d11cf72698695f4&sni=indiana-stars-ship-benz.trycloudflare.com#GitHub-Xray
