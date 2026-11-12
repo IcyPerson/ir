@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://64e9004b-1173-4078-bb35-c89da1fab6b3@indiana-stars-ship-benz.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=indiana-stars-ship-benz.trycloudflare.com&path=/d8bd49811ea692926d11cf72698695f4&sni=indiana-stars-ship-benz.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://indiana-stars-ship-benz.trycloudflare.com",
-  "host": "indiana-stars-ship-benz.trycloudflare.com",
-  "uuid": "64e9004b-1173-4078-bb35-c89da1fab6b3",
-  "path": "/d8bd49811ea692926d11cf72698695f4",
+  "vless_uri": "vless://325786de-bc3b-47ff-9d4b-d4bb0bad0344@conducted-researchers-nutrition-frederick.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=conducted-researchers-nutrition-frederick.trycloudflare.com&path=/793419657ec0ca47093e962a8206d416&sni=conducted-researchers-nutrition-frederick.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://conducted-researchers-nutrition-frederick.trycloudflare.com",
+  "host": "conducted-researchers-nutrition-frederick.trycloudflare.com",
+  "uuid": "325786de-bc3b-47ff-9d4b-d4bb0bad0344",
+  "path": "/793419657ec0ca47093e962a8206d416",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "indiana-stars-ship-benz.trycloudflare.com",
+  "sni": "conducted-researchers-nutrition-frederick.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-12T02:49:51Z"
+  "updated_at": "2026-11-12T08:20:30Z"
 }
