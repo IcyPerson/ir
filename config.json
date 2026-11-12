@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://325786de-bc3b-47ff-9d4b-d4bb0bad0344@conducted-researchers-nutrition-frederick.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=conducted-researchers-nutrition-frederick.trycloudflare.com&path=/793419657ec0ca47093e962a8206d416&sni=conducted-researchers-nutrition-frederick.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://conducted-researchers-nutrition-frederick.trycloudflare.com",
-  "host": "conducted-researchers-nutrition-frederick.trycloudflare.com",
-  "uuid": "325786de-bc3b-47ff-9d4b-d4bb0bad0344",
-  "path": "/793419657ec0ca47093e962a8206d416",
+  "vless_uri": "vless://f06c00cb-c5ef-4f2e-b77e-9303477b00c2@turning-neck-superintendent-rise.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=turning-neck-superintendent-rise.trycloudflare.com&path=/cd0aec9328389df4e027f6101ad0176b&sni=turning-neck-superintendent-rise.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://turning-neck-superintendent-rise.trycloudflare.com",
+  "host": "turning-neck-superintendent-rise.trycloudflare.com",
+  "uuid": "f06c00cb-c5ef-4f2e-b77e-9303477b00c2",
+  "path": "/cd0aec9328389df4e027f6101ad0176b",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "conducted-researchers-nutrition-frederick.trycloudflare.com",
+  "sni": "turning-neck-superintendent-rise.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-12T08:20:30Z"
+  "updated_at": "2026-11-12T13:51:13Z"
 }
