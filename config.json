@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://f10375f0-2e3e-4c13-bcd3-e7a3860ff139@gadgets-robinson-cached-gene.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=gadgets-robinson-cached-gene.trycloudflare.com&path=/1ab901e12c339cdbe8aaf963c9d1d848&sni=gadgets-robinson-cached-gene.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://gadgets-robinson-cached-gene.trycloudflare.com",
-  "host": "gadgets-robinson-cached-gene.trycloudflare.com",
-  "uuid": "f10375f0-2e3e-4c13-bcd3-e7a3860ff139",
-  "path": "/1ab901e12c339cdbe8aaf963c9d1d848",
+  "vless_uri": "vless://9e05a183-5fae-40fb-9d4e-c1f0ed52d23d@entrepreneurs-tobago-notifications-waterproof.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=entrepreneurs-tobago-notifications-waterproof.trycloudflare.com&path=/97666c29ce1dcecd94eb90133e31f920&sni=entrepreneurs-tobago-notifications-waterproof.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://entrepreneurs-tobago-notifications-waterproof.trycloudflare.com",
+  "host": "entrepreneurs-tobago-notifications-waterproof.trycloudflare.com",
+  "uuid": "9e05a183-5fae-40fb-9d4e-c1f0ed52d23d",
+  "path": "/97666c29ce1dcecd94eb90133e31f920",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "gadgets-robinson-cached-gene.trycloudflare.com",
+  "sni": "entrepreneurs-tobago-notifications-waterproof.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-12T19:21:56Z"
+  "updated_at": "2026-11-13T00:52:36Z"
 }
