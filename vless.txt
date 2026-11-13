@@ -1,1 +1,1 @@
-vless://9497bdcb-04a4-426e-a735-c8013a3c21eb@paul-involved-applicable-prepared.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=paul-involved-applicable-prepared.trycloudflare.com&path=/17deb1801824480070179cc789da3979&sni=paul-involved-applicable-prepared.trycloudflare.com#GitHub-Xray
+vless://4745c352-8556-4049-911d-1599fce4f03f@tony-spring-cnet-sale.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=tony-spring-cnet-sale.trycloudflare.com&path=/3427d16e3a1e0f5a3554131c350f8093&sni=tony-spring-cnet-sale.trycloudflare.com#GitHub-Xray
