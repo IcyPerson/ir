@@ -1,1 +1,1 @@
-vless://4745c352-8556-4049-911d-1599fce4f03f@tony-spring-cnet-sale.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=tony-spring-cnet-sale.trycloudflare.com&path=/3427d16e3a1e0f5a3554131c350f8093&sni=tony-spring-cnet-sale.trycloudflare.com#GitHub-Xray
+vless://08e9249a-0506-4b66-a84a-19bd61cee211@tramadol-instantly-hugh-nearly.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=tramadol-instantly-hugh-nearly.trycloudflare.com&path=/5464cb31a89b49e67d51b80edfa3a9f7&sni=tramadol-instantly-hugh-nearly.trycloudflare.com#GitHub-Xray
