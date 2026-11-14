@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://06cb7f19-0b20-41eb-a548-583c5c299620@pitch-creature-portsmouth-genuine.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=pitch-creature-portsmouth-genuine.trycloudflare.com&path=/f2cf1947546c585123ee0c7bcfcbea47&sni=pitch-creature-portsmouth-genuine.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://pitch-creature-portsmouth-genuine.trycloudflare.com",
-  "host": "pitch-creature-portsmouth-genuine.trycloudflare.com",
-  "uuid": "06cb7f19-0b20-41eb-a548-583c5c299620",
-  "path": "/f2cf1947546c585123ee0c7bcfcbea47",
+  "vless_uri": "vless://30cf4675-e111-416b-a559-508a231248c0@interstate-citizen-going-eric.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=interstate-citizen-going-eric.trycloudflare.com&path=/22860a00d2be743544f92364e0e4c3dc&sni=interstate-citizen-going-eric.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://interstate-citizen-going-eric.trycloudflare.com",
+  "host": "interstate-citizen-going-eric.trycloudflare.com",
+  "uuid": "30cf4675-e111-416b-a559-508a231248c0",
+  "path": "/22860a00d2be743544f92364e0e4c3dc",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "pitch-creature-portsmouth-genuine.trycloudflare.com",
+  "sni": "interstate-citizen-going-eric.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-14T09:56:53Z"
+  "updated_at": "2026-11-14T15:27:34Z"
 }
