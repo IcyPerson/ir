@@ -1,14 +1,14 @@
 {
-  "vless_uri": "vless://08e9249a-0506-4b66-a84a-19bd61cee211@tramadol-instantly-hugh-nearly.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=tramadol-instantly-hugh-nearly.trycloudflare.com&path=/5464cb31a89b49e67d51b80edfa3a9f7&sni=tramadol-instantly-hugh-nearly.trycloudflare.com#GitHub-Xray",
-  "tunnel_url": "https://tramadol-instantly-hugh-nearly.trycloudflare.com",
-  "host": "tramadol-instantly-hugh-nearly.trycloudflare.com",
-  "uuid": "08e9249a-0506-4b66-a84a-19bd61cee211",
-  "path": "/5464cb31a89b49e67d51b80edfa3a9f7",
+  "vless_uri": "vless://5fac5e27-7140-4598-a140-ef818fef9077@counts-literature-able-inline.trycloudflare.com:443?encryption=none&security=tls&type=ws&host=counts-literature-able-inline.trycloudflare.com&path=/10b65460b4e9bd37d7914b9db720bade&sni=counts-literature-able-inline.trycloudflare.com#GitHub-Xray",
+  "tunnel_url": "https://counts-literature-able-inline.trycloudflare.com",
+  "host": "counts-literature-able-inline.trycloudflare.com",
+  "uuid": "5fac5e27-7140-4598-a140-ef818fef9077",
+  "path": "/10b65460b4e9bd37d7914b9db720bade",
   "port": 443,
   "network": "ws",
   "security": "tls",
   "encryption": "none",
-  "sni": "tramadol-instantly-hugh-nearly.trycloudflare.com",
+  "sni": "counts-literature-able-inline.trycloudflare.com",
   "alias": "GitHub-Xray",
-  "updated_at": "2026-11-13T22:55:16Z"
+  "updated_at": "2026-11-14T04:26:12Z"
 }
